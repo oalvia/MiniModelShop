@@ -1,0 +1,7 @@
+<p>Listado de productos:</p>
+<div class="productList">
+  <app-product
+  *ngFor="let eachProd of apiProducts"
+    [product]="eachProd"
+  ></app-product>
+</div>

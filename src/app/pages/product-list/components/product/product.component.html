@@ -1,0 +1,24 @@
+<div *ngIf="product" class="product">
+  <div class="imageContainer">
+    <img
+      class="productImages"
+      src="../../../../../assets/image/{{ product.image }}"
+    />
+  </div>
+  <div class="productDetail">
+    <p class="productScale">{{ "Scale: " }}{{ product.scale }}</p>
+    <p class="productBrand">{{ "Brand: " }}{{ product.brand }}</p>
+    <p class="productDescr">{{ "Description: " }}{{ product.description }}</p>
+    <p class="productPrice">{{ "Price: " }}{{ product.price }}</p>
+  </div>
+  <div class="buttonsContainer">
+    <button
+    class="productButton productButton-view_more"
+    (click)="showMore()"
+
+    >View More</button>
+    <button
+    class="productButton productButton-delete"
+    >Review</button>
+  </div>
+</div>
