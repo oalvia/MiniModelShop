@@ -21,9 +21,4 @@ public ngOnInit(): void{
   this.productsService.getApiProducts().subscribe((productsFromApi) => {
    this.apiProducts = productsFromApi;})
 }
-
-
-// public reviewProductFromList(Id: string){
-//   this.products = this.products.filter(product => product.productId !== Id);
-// }
 }

@@ -6,22 +6,28 @@ import { ApiProduct } from '../../core/services/products/api/api-products.models
 @Component({
   selector: 'app-product-detail',
   templateUrl: './product-detail.component.html',
-  styleUrls: ['./product-detail.component.scss']
+  styleUrls: ['./product-detail.component.scss'],
 })
 export class ProductDetailComponent {
+  public apiProduct: ApiProduct[] = [];
 
-  public product? : ApiProduct;
-
+  
   constructor(
     private activeRoute: ActivatedRoute,
     private productsService: ApiProductsService
-  ){
-    this.activeRoute.params.subscribe((params)=>{
+  ) {
+    this.activeRoute.params.subscribe((params) => {
       const Id = params['id'];
-      this.productsService.getApiProductDetail(Id).subscribe((productFromApi) => {
-        this.product = productFromApi;});
-        console.log(this.product)
-    }
-    )
+      this.productsService
+        .getApiProductDetail(Id)
+        .subscribe((productFromApi) => {
+          if(this.apiProduct){
+            this.apiProduct[0]= productFromApi;
+          console.log(this.apiProduct[0]);
+        }
+          
+          
+        });
+    });
   }
 }

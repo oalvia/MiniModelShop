@@ -25,6 +25,10 @@ const routes: Routes = [
     path:'product_detail/:id',
     loadChildren: () => import('./pages/product-detail/product-detail.module').then(m=>m.ProductDetailModule)
   },
+  // {
+  //   path:'wishlist',
+  //   loadChildren: () => import('./pages/wishlist/wishlist-routing.module').then(m=>m.WishlistRoutingModule)
+  // },
   {
     path:'**',
     loadChildren: () => import('./pages/not-found/not-found.module').then(m=>m.NotFoundModule)

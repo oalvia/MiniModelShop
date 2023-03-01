@@ -1,0 +1,6 @@
+<select (change)="update($event)">
+    <option value="default">----</option>
+    <option *ngFor="let page of pages" [value]="page">
+        {{page}}
+    </option>
+</select>

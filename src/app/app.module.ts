@@ -7,6 +7,7 @@ import { ProductListModule } from './pages/product-list/product-list.module';
 import { ProductDetailComponent } from './pages/product-detail/product-detail.component';
 import { ProductReviewComponent } from './pages/product-review/product-review.component';
 import {HttpClientModule} from '@angular/common/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,9 @@ import {HttpClientModule} from '@angular/common/http';
     AppRoutingModule,
     ProductListModule,
     CoreModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

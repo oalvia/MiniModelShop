@@ -1,0 +1,62 @@
+<p>wishlist works!</p>
+
+<form 
+    *ngIf="wishlistForm"
+    [formGroup]="wishlistForm">
+    <div *ngFor="let type_sel of type">
+      <label>
+        {{ type_sel }}
+      </label>
+      <input
+        type="radio"
+        name="radio_type"
+        class="form_radio"
+        [id]="type_sel"
+        [value]="type_sel"
+        formControlName="type"
+
+      />
+    </div>
+  
+    <div *ngFor="let scale_sel of scale">
+      <label>
+        {{ scale_sel }}
+      </label>
+      <input
+        name="radio_scale"
+        type="radio"
+        class="form_radio"
+        [id]="scale_sel"
+        [value]="scale_sel"
+        formControlName="scale"
+
+      />
+    </div>
+    <div>
+      <input
+        name="input_description"
+        class="form_input"
+        placeholder="Description"
+        formControlName="description"
+
+      />
+    </div>
+    <div *ngFor="let brand_sel of brand">
+      <label>
+        {{ brand_sel }}
+      </label>
+      <input
+        name="checkbox_brand"
+        type="checkbox"
+        class="form_checkbox"
+        [id]="brand_sel"
+        [value]="brand_sel"
+        formControlName="brand"
+      />
+    </div>
+  
+    <button
+      class="form_button"
+      type="submit">Send to Wishlist</button>
+  </form>
+  

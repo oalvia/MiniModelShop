@@ -5,21 +5,21 @@ import { ApiProductsService } from './api/api-products.service';
 import { Product } from './product.models';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class ProductsService {
 
-  constructor(private apiProductsService: ApiProductsService) { }
-  public getProducts(): Observable<Product[]>{
+  public alterImage = "MiniModelShop/src/assets/image/comingSoon.png"
+
+  constructor(private apiProductsService: ApiProductsService) {}
+  public getProducts(): Observable<Product[]> {
     return this.apiProductsService.getApiProducts().pipe(
       map((products: ApiProduct[]) => {
-      return products.map((product :ApiProduct) => {
-        // delete product.stock;
-        return product;
-      });     
-}),
-);
+        return products.map((product: ApiProduct) => {
+          product.image ? product.image : product.image=this.alterImage
+          return product;
+        });
+      })
+    );
+  }
 }
-}
-
-// product.image = product.image ? product.image : "comingSoon.png";
