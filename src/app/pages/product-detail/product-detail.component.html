@@ -1,17 +1,19 @@
-<div *ngIf="apiProduct[0]" class="product">
+<div *ngIf="apiProduct" class="product">
   <div class="imageContainer">
     <img
       class="productImages"
-      src="../../../assets/image/{{ apiProduct[0].image }}"
+      src="../../../assets/image/{{ apiProduct.image }}"
     />
   </div>
   <div class="productDetail">
-    <p class="productScale">{{ apiProduct[0].scale }}</p>
-    <p class="productBrand">Brand:{{ apiProduct[0].brand }}</p>
-    <p class="productDescr">Description:{{ apiProduct[0].description }}</p>
-    <p class="productType">Type:{{ apiProduct[0].type }}</p>
-    <p class="productTags">Tags:{{ apiProduct[0].tags }}</p>
-    <p class="productPrice">Price:{{ apiProduct[0].price }}</p>
-    <p class="productScore">Score:{{ apiProduct[0].score }}</p>
+    <p class="productScale">{{ apiProduct.productId }}</p>
+    <p class="productScale">{{ apiProduct.scale }}</p>
+    <p class="productBrand">Brand:{{ apiProduct.brand }}</p>
+    <p class="productDescr">{{ apiProduct.description }}</p>
+    <p class="productDescr">{{ apiProduct.addDescription }}</p>
+    <p class="productType">Type:{{ apiProduct.type }}</p>
+    <p class="productTags">Tags:{{ apiProduct.tags }}</p>
+    <p class="productPrice">Price:{{ apiProduct.price }}</p>
+    <p class="productScore">Score:{{ apiProduct.score }}</p>
   </div>
 </div>

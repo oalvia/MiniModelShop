@@ -16,8 +16,8 @@ export class ApiProductsService {
     return this.http.get<ApiProduct[]>(`${API_PRODUCT_URL}/products`);
   }
 
-  public getApiProductDetail(id: string): Observable<ApiProduct> {
+  public getApiProductDetail(id: string): Observable<ApiProduct[]> {
     let params = new HttpParams().set('productId', id);
-    return this.http.get<ApiProduct>(`${API_PRODUCT_URL}/products`, {params: params})
+    return this.http.get<ApiProduct[]>(`${API_PRODUCT_URL}/products`, {params: params});
   }
 }

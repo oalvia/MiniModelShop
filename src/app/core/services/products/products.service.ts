@@ -16,7 +16,11 @@ export class ProductsService {
     return this.apiProductsService.getApiProducts().pipe(
       map((products: ApiProduct[]) => {
         return products.map((product: ApiProduct) => {
-          product.image ? product.image : product.image=this.alterImage
+          
+
+
+
+          
           return product;
         });
       })

@@ -9,21 +9,23 @@ import { ApiProduct } from '../../core/services/products/api/api-products.models
   styleUrls: ['./product-detail.component.scss'],
 })
 export class ProductDetailComponent {
-  public apiProduct: ApiProduct[] = [];
+  public apiProduct?: ApiProduct;
+  
 
   
   constructor(
     private activeRoute: ActivatedRoute,
     private productsService: ApiProductsService
   ) {
-    this.activeRoute.params.subscribe((params) => {
+    this.activeRoute.params.subscribe((params) => { 
       const Id = params['id'];
       this.productsService
         .getApiProductDetail(Id)
         .subscribe((productFromApi) => {
-          if(this.apiProduct){
-            this.apiProduct[0]= productFromApi;
-          console.log(this.apiProduct[0]);
+          if(productFromApi){
+            this.apiProduct= productFromApi[0];
+          console.log(this.apiProduct);
+          console.log(Id);
         }
           
           
