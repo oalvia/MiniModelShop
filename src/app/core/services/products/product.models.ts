@@ -5,7 +5,7 @@ export interface Product {
     description: string,
     type: Type,
     tags: Tags[],
-    addDescription: string,
+    // addDescription?: string,
     stock: number,
     price: number,
     score: number,

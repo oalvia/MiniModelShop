@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
     pages = [
       "Login",
       "Shopping Cart",
-      "Wish List"
+      "Wishlist"
     ]
     
     selected = "----"

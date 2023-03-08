@@ -1,6 +1,6 @@
 import { Component,EventEmitter,Input, Output } from '@angular/core';
-import { ApiProduct } from 'src/app/core/services/products/api/api-products.models';
 import { Router } from '@angular/router';
+import { Product } from './../../../../core/services/products/product.models';
 
 @Component({
   selector: 'app-product',
@@ -9,7 +9,7 @@ import { Router } from '@angular/router';
 })
 export class ProductComponent {
 
-  @Input() public product?: ApiProduct;
+  @Input() public product?: Product;
   // @Output() public onReview: EventEmitter<void> = new EventEmitter<void>();
 
 constructor(private router: Router){}

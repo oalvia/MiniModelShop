@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ApiProductsService } from 'src/app/core/services/products/api/api-products.service';
-import { ApiProduct } from '../../core/services/products/api/api-products.models';
+import { Product } from './../../core/services/products/product.models';
+import { ProductsService } from './../../core/services/products/products.service';
+
 
 
 @Component({
@@ -13,12 +14,12 @@ export class ProductListComponent implements OnInit {
 
 public notFoundImage = "../../../../../assets/image/comingSoon.png";
 
-public apiProducts: ApiProduct[] = []; 
+public products: Product[]=[];
 
-constructor(private productsService: ApiProductsService) {}
+constructor(private productsService: ProductsService) {}
 
 public ngOnInit(): void{
-  this.productsService.getApiProducts().subscribe((productsFromApi) => {
-   this.apiProducts = productsFromApi;})
+  this.productsService.getProducts().subscribe((productsFromApi) => {
+   this.products = productsFromApi;})
 }
 }

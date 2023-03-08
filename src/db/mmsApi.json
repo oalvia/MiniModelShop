@@ -6,7 +6,11 @@
       "brand": "ACADEMY",
       "description": "Dassault-Breguet Super Entendard",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -19,7 +23,11 @@
       "brand": "ACADEMY",
       "description": "Vought F4U-1 Corsair",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -32,7 +40,11 @@
       "brand": "ACADEMY",
       "description": "Focke Wulf 190-D9",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -45,7 +57,11 @@
       "brand": "ACADEMY",
       "description": "Fiesler Fi-156 Storch",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -58,7 +74,11 @@
       "brand": "ACADEMY",
       "description": "North American T-6G Texan",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -71,7 +91,11 @@
       "brand": "ACADEMY",
       "description": "Cessna A-37 B Dragonfly",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -84,7 +108,11 @@
       "brand": "ACADEMY",
       "description": "Hawker Typhoon Mk.Ib",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -97,7 +125,11 @@
       "brand": "ACADEMY",
       "description": "Curtiss P-40 B Tomahawk",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -110,7 +142,11 @@
       "brand": "ACADEMY",
       "description": "Rockwell OV-10A Bronco",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -123,7 +159,11 @@
       "brand": "ACADEMY",
       "description": "North American P-51B Mustang",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -136,7 +176,11 @@
       "brand": "ACADEMY",
       "description": "Curtiss P-40 N/M Warhawk",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -149,7 +193,11 @@
       "brand": "ACADEMY",
       "description": "Hawker Tempest V",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -162,7 +210,11 @@
       "brand": "ACADEMY",
       "description": "Curtiss P-40 E Warhawk",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -175,7 +227,11 @@
       "brand": "ACADEMY",
       "description": "Cessna A-37 B Dragonfly *Black Eagles R.O.K.A.F. Air Demostration Team*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -188,7 +244,11 @@
       "brand": "ACADEMY",
       "description": "Messerschmitt Me-163 B/S Komet",
       "type": "Base Kit",
-      "tags": ["Military", "Rocket engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Rocket engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -201,7 +261,11 @@
       "brand": "ACADEMY",
       "description": "Lockheed Ventura II",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -214,7 +278,11 @@
       "brand": "ACADEMY",
       "description": "Lockheed F-117 A *The Ghost of Bagdad*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Bomber"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -227,7 +295,11 @@
       "brand": "ACADEMY",
       "description": "Grumman F6F-3/5 Hellcat",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -240,7 +312,11 @@
       "brand": "ACADEMY",
       "description": "Consolidated PBY-2 Catalina",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -253,7 +329,11 @@
       "brand": "ACADEMY",
       "description": "Consolidated PBY-5A Catalina *Black Cat*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -266,7 +346,11 @@
       "brand": "ACADEMY",
       "description": "Hawker Hurricane Mk.IIc",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -279,7 +363,11 @@
       "brand": "ACADEMY",
       "description": "Supermarine Spitfire Mk.XIVc",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -292,7 +380,11 @@
       "brand": "ACADEMY",
       "description": "McDonnell Douglas AH-64A Apache",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -305,7 +397,11 @@
       "brand": "ACADEMY",
       "description": "Boeing B-17 F Flying Fortress",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -318,7 +414,11 @@
       "brand": "ACADEMY",
       "description": "Boeing B-17 F Flying Fortress *Memphis Belle*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -331,7 +431,11 @@
       "brand": "ACADEMY",
       "description": "Boeing B-17 G Flying Fortress",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -344,7 +448,11 @@
       "brand": "ACADEMY",
       "description": "Consolidated B-24 M Liberator",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -357,7 +465,11 @@
       "brand": "ACADEMY",
       "description": "Boeing B-29 A Superfortress *Enola Gay*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -370,7 +482,11 @@
       "brand": "ACADEMY",
       "description": "Republic P-47 D Thunderbolt *Bubble Top*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -383,7 +499,11 @@
       "brand": "ACADEMY",
       "description": "Republic P-47 D Thunderbolt *Razor Back*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -396,7 +516,11 @@
       "brand": "ACADEMY",
       "description": "Bell P-39 Q/N Airacobra",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -409,7 +533,11 @@
       "brand": "ACADEMY",
       "description": "Curtiss SB2C-4 Helldiver",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -422,7 +550,11 @@
       "brand": "ACADEMY",
       "description": "Chance Vough F-8J Crusader *US Navy*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -435,7 +567,11 @@
       "brand": "ACADEMY",
       "description": "Fairchild A-10A Thunderbolt II *Op Iraqi Freedom*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -448,7 +584,11 @@
       "brand": "ACADEMY",
       "description": "Ilyushin IL-2 Stormovik",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -461,7 +601,11 @@
       "brand": "ACADEMY",
       "description": "Messerschmitt Bf-109E",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -474,7 +618,11 @@
       "brand": "ACADEMY",
       "description": "Mitsubishi A6M5C Zero Type 52C",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -487,7 +635,11 @@
       "brand": "AIRFIX",
       "description": "Hawker Siddeley Buccaneer S.2B",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -500,7 +652,11 @@
       "brand": "AIRFIX",
       "description": "Shorts Tucano RAF",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -513,7 +669,11 @@
       "brand": "AIRFIX",
       "description": "Bristol Mk.32 Superfrieghter",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -526,7 +686,11 @@
       "brand": "AIRFIX",
       "description": "Heinkel He 177",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -539,7 +703,11 @@
       "brand": "AIRFIX",
       "description": "Avro Lancaster B.III *Dam Buster*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -552,7 +720,11 @@
       "brand": "AIRFIX",
       "description": "Avro Vulcan B Mk.2",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Bomber"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -565,7 +737,11 @@
       "brand": "AIRFIX",
       "description": "Lockheed AC-130H Hercules Gunship",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -578,7 +754,11 @@
       "brand": "AIRFIX",
       "description": "Bae Harrier Gr.7 (Hi-Tech Series)",
       "type": "Multimedia Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -591,7 +771,11 @@
       "brand": "AIRFIX",
       "description": "Sud Aviation SE-210 Caravelle - Air France - Esp. *Avensa*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Comercial"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -604,7 +788,11 @@
       "brand": "AIRFIX",
       "description": "Kamen SH-2F Seasprite",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -617,7 +805,11 @@
       "brand": "AIRFIX",
       "description": "McDonnell Douglas DC-10 SAS/AA",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Comercial"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -630,7 +822,11 @@
       "brand": "AIRFIX",
       "description": "Gloster Gladiator Mk.I/II",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -643,7 +839,11 @@
       "brand": "AIRFIX",
       "description": "English Electric Lightning F.2A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -656,7 +856,11 @@
       "brand": "AIRFIX",
       "description": "Fokker E.III Eindecker",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -669,7 +873,11 @@
       "brand": "AZUR",
       "description": "Cierva C.30",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Gyroplane"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Gyroplane"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -682,7 +890,11 @@
       "brand": "CLASSIC PLANE",
       "description": "Pilatus PC-6 *Der Bunte Fredi* (IPMS-Austria)",
       "type": "Base Kit",
-      "tags": ["Civil", "Turboprop", "Utility"],
+      "tags": [
+        "Civil",
+        "Turboprop",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -695,7 +907,11 @@
       "brand": "CMK",
       "description": "Arado Ar-68 F",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -708,7 +924,11 @@
       "brand": "CONDOR",
       "description": "Focke-Wulf Fw 189 A-1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Reco"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Reco"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -721,7 +941,11 @@
       "brand": "DML/DRAGON",
       "description": "Mig 17 Fresco",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -734,7 +958,11 @@
       "brand": "DML/DRAGON",
       "description": "Mi-28 HAVOC",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -747,7 +975,11 @@
       "brand": "DML/DRAGON",
       "description": "Northrop YF-23",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Experimental"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Experimental"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -760,7 +992,11 @@
       "brand": "DML/DRAGON",
       "description": "Lockheed Martin F-22 Raptor",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -773,7 +1009,11 @@
       "brand": "DML/DRAGON",
       "description": "Kamov Ka-50 Hokum",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -786,7 +1026,11 @@
       "brand": "DML/DRAGON",
       "description": "Mikoyan-Gurevich MiG-15 Fagot",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -799,7 +1043,11 @@
       "brand": "DML/DRAGON",
       "description": "Jian Ji-2",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -812,7 +1060,11 @@
       "brand": "DML/DRAGON",
       "description": "Sukhoi Su-24 MR/MP Fencer E/F",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -825,7 +1077,11 @@
       "brand": "DML/DRAGON",
       "description": "Sukhoi Su-24 M Fencer D",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -838,7 +1094,11 @@
       "brand": "DML/DRAGON",
       "description": "Heinkel He162A-2 Volksjager",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -851,7 +1111,11 @@
       "brand": "DML/DRAGON",
       "description": "Mistel 5 / He 162 A-2 w/ Arado E-377 a",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Bomber"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -864,7 +1128,11 @@
       "brand": "DML/DRAGON",
       "description": "Heinkel He 219 A-0 Uhu",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -877,7 +1145,11 @@
       "brand": "DML/DRAGON",
       "description": "Heinkel He 219 A-7 Owl",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -890,7 +1162,11 @@
       "brand": "DML/DRAGON",
       "description": "Focke Wulf Ta 152 C-0",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -903,7 +1179,11 @@
       "brand": "DML/DRAGON",
       "description": "Focke Wulf Ta 152 H-1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -916,7 +1196,11 @@
       "brand": "DML/DRAGON",
       "description": "Arado Ar 234 C-3 w/ V-1 Huckepack",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Bomber"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -929,7 +1213,11 @@
       "brand": "DML/DRAGON",
       "description": "Arado Ar 234 B Nachtigall",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Bomber"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -942,7 +1230,11 @@
       "brand": "DML/DRAGON",
       "description": "Messerschmitt Me 1101",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Concept"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Concept"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -955,7 +1247,11 @@
       "brand": "DML/DRAGON",
       "description": "Messerschmitt Me 1101 Nachtjäger",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Concept"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Concept"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -968,7 +1264,11 @@
       "brand": "DML/DRAGON",
       "description": "Dornier Do 335 A-1 Pfeil",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -981,7 +1281,11 @@
       "brand": "DML/DRAGON",
       "description": "Dornier Do 335 A-12 Anteater",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -994,7 +1298,11 @@
       "brand": "DML/DRAGON",
       "description": "Northrop P-61A Black Widow",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1007,7 +1315,11 @@
       "brand": "DML/DRAGON",
       "description": "Lockheed P-38 J Lightning",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1020,7 +1332,11 @@
       "brand": "DML/DRAGON",
       "description": "Lockheed P-38 Pathfinder",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1033,7 +1349,11 @@
       "brand": "DML/DRAGON",
       "description": "Ija Ki-61-1 HEI Tony Type 3",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1046,7 +1366,11 @@
       "brand": "DML/DRAGON",
       "description": "Tupolev TU-95 Bear D *Oriental Express*",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Bomber"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1059,7 +1383,11 @@
       "brand": "DML/DRAGON",
       "description": "Boeing B-52G Desert Storm Nose Art",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Bomber"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1072,7 +1400,11 @@
       "brand": "DML/DRAGON",
       "description": "Boeing B-52G Stratofortress",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Bomber"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1085,7 +1417,11 @@
       "brand": "DML/DRAGON",
       "description": "Lockheed C-141A Starlifter",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1098,7 +1434,11 @@
       "brand": "DML/DRAGON",
       "description": "Lockheed C-141B Star Lizard",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1111,7 +1451,11 @@
       "brand": "DML/DRAGON",
       "description": "Boeing B-52D Buff ",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Bomber"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Bomber"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1124,7 +1468,11 @@
       "brand": "EDUARD",
       "description": "Fokker E.III *Stripdown*",
       "type": "Multimedia Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1137,7 +1485,11 @@
       "brand": "EDUARD",
       "description": "Fiesler Fi-156 Storch *Stripdown*",
       "type": "Multimedia Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1150,7 +1502,11 @@
       "brand": "EDUARD",
       "description": "Lavochkin LA-7 3 gun version",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1163,7 +1519,11 @@
       "brand": "EDUARD",
       "description": "Sopwith Schneider",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1176,7 +1536,11 @@
       "brand": "EDUARD",
       "description": "Airco DH-2 (Profipac)",
       "type": "Multimedia Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1189,7 +1553,11 @@
       "brand": "IBG Models",
       "description": "PZL P.11c",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1202,7 +1570,11 @@
       "brand": "FINE MOLDS",
       "description": "Messerschmitt Me 410A-1 II/zg26 Gelb Sieben",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1215,7 +1587,11 @@
       "brand": "FINE MOLDS",
       "description": "Messerschmitt Me 410A-1 I/kg 51 EdelweiB",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1228,7 +1604,11 @@
       "brand": "FUJIMI",
       "description": "Dassault-Breguet-Dornier ALPHA-JET A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1241,7 +1621,11 @@
       "brand": "FUJIMI",
       "description": "Sikorsky HH-60D Night Hawk",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1254,7 +1638,11 @@
       "brand": "FUJIMI",
       "description": "Junker Ju-87 D-1 Stuka *Dora*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1267,7 +1655,11 @@
       "brand": "FUJIMI",
       "description": "Junker Ju-87 G-1 Stuka *Tank Buster*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1280,7 +1672,11 @@
       "brand": "FUJIMI",
       "description": "Junker Ju-87 D-5 Stuka *White Milk*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1293,7 +1689,11 @@
       "brand": "FUJIMI",
       "description": "Junker Ju-87 G-2 Stuka *Kanonenvogel*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1306,7 +1706,11 @@
       "brand": "FUJIMI",
       "description": "Junker Ju-87 B-1 Stuka *Shark Mouth*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1319,7 +1723,11 @@
       "brand": "FUJIMI",
       "description": "Junker Ju-87 B/R Stuka *Immelmann*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1332,7 +1740,11 @@
       "brand": "FUJIMI",
       "description": "Douglas OA-4M Skyhawk",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1345,7 +1757,11 @@
       "brand": "FUJIMI",
       "description": "Douglas TA-4 J/F Skyhawk",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1358,7 +1774,11 @@
       "brand": "FUJIMI",
       "description": "Vought F7U-3 Cutlass",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1371,7 +1791,11 @@
       "brand": "FUJIMI",
       "description": "Grumman A6-E Tram Intruder",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1384,7 +1808,11 @@
       "brand": "FUJIMI",
       "description": "Grumman KA6-E Intruder Tanker",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1397,7 +1825,11 @@
       "brand": "FUJIMI",
       "description": "McDonnell Douglas F-4 K British Phantom II *Yellow Bird*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1410,7 +1842,11 @@
       "brand": "FUJIMI",
       "description": "Mig 21 bis *Black Linx*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1423,7 +1859,11 @@
       "brand": "FUJIMI",
       "description": "Mig 21 SMT *Hump Back*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1436,7 +1876,11 @@
       "brand": "FUJIMI",
       "description": "Mig 21 PF (Later) *Indian Tiger*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1449,7 +1893,11 @@
       "brand": "FUJIMI",
       "description": "Mig 21 MF *Jay Fighter*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1462,7 +1910,11 @@
       "brand": "FUJIMI",
       "description": "Mig 21 PF (Early) *Phantom Killer*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1475,7 +1927,11 @@
       "brand": "FUJIMI",
       "description": "Grumman F-14A Tomcat *Ali-Cat*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1488,7 +1944,11 @@
       "brand": "FUJIMI",
       "description": "Grumman F-14A Tomcat *Hello Independence*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1501,7 +1961,11 @@
       "brand": "FUJIMI",
       "description": "Grumman F-14A Bombcat",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1514,7 +1978,11 @@
       "brand": "FUJIMI",
       "description": "Messerschmitt Bf-110C/D",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1527,7 +1995,11 @@
       "brand": "FUJIMI",
       "description": "Bell UH-1N 212 Iroquois",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1540,7 +2012,11 @@
       "brand": "FUJIMI",
       "description": "Grumman E-2C Hawkeye *Screwtops*",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1553,7 +2029,11 @@
       "brand": "FUJIMI",
       "description": "Kaman SH-2F / YSH-2E",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1566,7 +2046,11 @@
       "brand": "FUJIMI",
       "description": "Mitsubishi Type 96 Carrier Fighter A5M4",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1579,7 +2063,11 @@
       "brand": "FUJIMI",
       "description": "Mitsubishi F1M2 *Pete*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1592,7 +2080,11 @@
       "brand": "FUJIMI",
       "description": "Mitsubishi A5M2a",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1605,7 +2097,11 @@
       "brand": "FUJIMI",
       "description": "Nakajima Carrier Attack Bomber B6N1 Tenzan (Jill) Type 11",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1618,7 +2114,11 @@
       "brand": "FUJIMI",
       "description": "Nakajima Carrier Attack Bomber B6N2 Tenzan (Jill) Type 12",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1631,7 +2131,11 @@
       "brand": "FUJIMI",
       "description": "Nakajima J1N3 Model 23 Gekko",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1644,7 +2148,11 @@
       "brand": "FUJIMI",
       "description": "Nakajima J1N1-R Gekko ‘Rabaul Flying Corps’",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1657,7 +2165,11 @@
       "brand": "FUJIMI",
       "description": "Supermarine Spitfire F.Mk.14c *Air Race*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1670,7 +2182,11 @@
       "brand": "FUJIMI",
       "description": "Lockheed Martin F-35B Lightning II",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1683,7 +2199,11 @@
       "brand": "FUJIMI",
       "description": "Lockheed Martin  F-35B Lightning II JASDF Air Control Camouflage",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1696,7 +2216,11 @@
       "brand": "FUJIMI",
       "description": "Bae Harrier Gr.3",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1709,7 +2233,11 @@
       "brand": "FUJIMI",
       "description": "Bae Sea Harrier FRS Mk.1 Royal Navy",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1722,7 +2250,11 @@
       "brand": "FUJIMI",
       "description": "Aichi B7A2 Ryuseikai",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1735,7 +2267,11 @@
       "brand": "FUJIMI",
       "description": "Aichi Model 22 Type 99 *Val*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1748,7 +2284,11 @@
       "brand": "FUJIMI",
       "description": "Nakajima Ki-43-I Hayabusa",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1761,7 +2301,11 @@
       "brand": "FUJIMI",
       "description": "Nakajima Ki-43-I Hayabusa",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1774,7 +2318,11 @@
       "brand": "FUJIMI",
       "description": "HH-53C Super Jolly Green Giant",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1787,7 +2335,11 @@
       "brand": "FUJIMI",
       "description": "Sikorsky RH-53D Sea Stallion",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1800,7 +2352,11 @@
       "brand": "FUJIMI",
       "description": "Sikorsky CH-53 G",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1813,7 +2369,11 @@
       "brand": "FUJIMI",
       "description": "Boeing-Vertol KV-107 II-4 Chinook",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1826,7 +2386,11 @@
       "brand": "FUJIMI",
       "description": "North American Rockwell  F-86F Sabre *J.A.S.D.F*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1839,7 +2403,11 @@
       "brand": "FUJIMI",
       "description": "North American Rockwell F-86F Sabre *Mig Killer*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1852,7 +2420,11 @@
       "brand": "FUJIMI",
       "description": "Vought A-7D Corsair II *Flying Tiger*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1865,7 +2437,11 @@
       "brand": "FUJIMI",
       "description": "Vought A-7E Corsair II *Stinger*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1878,7 +2454,11 @@
       "brand": "FUJIMI",
       "description": "McDonnell Douglas F-4 S Phantom II *Rockriver*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1891,7 +2471,11 @@
       "brand": "FUJIMI",
       "description": "McDonnell Douglas F-4 E Phantom II *Mig Killer*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1904,7 +2488,11 @@
       "brand": "FUJIMI",
       "description": "McDonnell Douglas F-4 J Phantom II *Red Devil*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1917,7 +2505,11 @@
       "brand": "FUJIMI",
       "description": "Nakajima C6N2 Saiun Type 12 *Saiun-kai* Myrt",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -1930,7 +2522,11 @@
       "brand": "FUJIMI",
       "description": "Westland Seaking RN *Flying Tigers* RDAF/RNoAF",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -1943,7 +2539,11 @@
       "brand": "FUJIMI",
       "description": "MiG-29 Fulcrum *German MiG*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -1956,7 +2556,11 @@
       "brand": "HASEGAWA",
       "description": "McDonnell Douglas F-15 C Eagle *Okinawa ZZ*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -1969,7 +2573,11 @@
       "brand": "HASEGAWA",
       "description": "Sukhoi Su-27 Flanker *Ukranian Air Force*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -1982,7 +2590,11 @@
       "brand": "HASEGAWA",
       "description": "North American F-86 D Sabre Dog *512 Fighter Interceptor Sq*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -1995,7 +2607,11 @@
       "brand": "HASEGAWA",
       "description": "Sukhoi Su-30 KI",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2008,7 +2624,11 @@
       "brand": "HASEGAWA",
       "description": "Dassault Mirage F.1C",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2021,7 +2641,11 @@
       "brand": "HASEGAWA",
       "description": "McDonnell Douglas F/A-18C Hornet",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2034,7 +2658,11 @@
       "brand": "HASEGAWA",
       "description": "Lockheed F-106 G/S Starfighter *Italian AF / Luftwaffe*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2047,7 +2675,11 @@
       "brand": "HASEGAWA",
       "description": "Kawasaki T-4 *Hamamatsu Training Wing*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2060,7 +2692,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman F11-F Tiger",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2073,7 +2709,11 @@
       "brand": "HASEGAWA",
       "description": "Kawanishi N1K2-J Shidenkai (George)",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2086,7 +2726,11 @@
       "brand": "HASEGAWA",
       "description": "Curtiss P-40 Kityhawk Mk.Ia",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2099,7 +2743,11 @@
       "brand": "HASEGAWA",
       "description": "Cessna A-37 A/B Dragonfly",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2112,7 +2760,11 @@
       "brand": "HASEGAWA",
       "description": "Shoki Ki-44 (Tojo) *Shinten Seikutai*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2125,7 +2777,11 @@
       "brand": "HASEGAWA",
       "description": "Curtiss P-40 N Warhawk *South Pacific Campaign*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2138,7 +2794,11 @@
       "brand": "HASEGAWA",
       "description": "Nakajima B5N2 Kate *Pearl Harbor w/800 Kg Armour Piercing Bomb*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2151,7 +2811,11 @@
       "brand": "HASEGAWA",
       "description": "General Dinamics F-16 A Plus Fighting Falcon",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2164,7 +2828,11 @@
       "brand": "HASEGAWA",
       "description": "General Dinamics F-16 C Fighting Falcon",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2177,7 +2845,11 @@
       "brand": "HASEGAWA",
       "description": "Bae Sea Harrier FRS Mk.1",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2190,7 +2862,11 @@
       "brand": "HASEGAWA",
       "description": "North American F-100D Super Sabre",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2203,7 +2879,11 @@
       "brand": "HASEGAWA",
       "description": "Douglas OA-4M Skyhawk",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2216,7 +2896,11 @@
       "brand": "HASEGAWA",
       "description": "Douglas A-4 E/F Skyhawk",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2229,7 +2913,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman / Rockwell OV-1B Mohawk",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2242,7 +2930,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman F9F-2 Panther",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2255,7 +2947,11 @@
       "brand": "HASEGAWA",
       "description": "Bae Lightning F Mk.6",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2268,7 +2964,11 @@
       "brand": "HASEGAWA",
       "description": "Mig-23S Flogger B",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2281,7 +2981,11 @@
       "brand": "HASEGAWA",
       "description": "Convair F-102A Delta Dagger",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2294,7 +2998,11 @@
       "brand": "HASEGAWA",
       "description": "Convair F-102C Delta Dart",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2307,7 +3015,11 @@
       "brand": "HASEGAWA",
       "description": "Sepect Jaguar Gr Mk.1/A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2320,7 +3032,11 @@
       "brand": "HASEGAWA",
       "description": "Sepect Jaguar ET Mk.2",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2333,7 +3049,11 @@
       "brand": "HASEGAWA",
       "description": "McDonnell Douglas F/A-18A Hornet",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2346,7 +3066,11 @@
       "brand": "HASEGAWA",
       "description": "Bell AH-1S Cobra US Army",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2359,7 +3083,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Me 262 A-1a *Jv44 Galland*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2372,7 +3100,11 @@
       "brand": "HASEGAWA",
       "description": "Lockheed F-106 G Starfighter *Royal Norwegian AF*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2385,7 +3117,11 @@
       "brand": "HASEGAWA",
       "description": "McDonnell Douglas F/A-18D Hornet *Night Attack*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2398,7 +3134,11 @@
       "brand": "HASEGAWA",
       "description": "Panavia Tornado F Mk.3 RAF",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2411,7 +3151,11 @@
       "brand": "HASEGAWA",
       "description": "General Dinamics F-111A Aadvark *Giant Voice*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2424,7 +3168,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman F-14 Tomcat *Atlantic Fleet Squadrons*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2437,7 +3185,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman F-14 Tomcat *Wolf Pack*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2450,7 +3202,11 @@
       "brand": "HASEGAWA",
       "description": "Lockheed S-3B Viking *Independence*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2463,7 +3219,11 @@
       "brand": "HASEGAWA",
       "description": "Panavia Tornado IDS Luftwaffe *Tiger Meet 1994*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2476,7 +3236,11 @@
       "brand": "HASEGAWA",
       "description": "Fairchild A-10A Thunderbolt II",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2489,7 +3253,11 @@
       "brand": "HASEGAWA",
       "description": "McDonnell Douglas F-15 E StrikeEagle *Seymour Johnson*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2502,7 +3270,11 @@
       "brand": "HASEGAWA",
       "description": "Panavia Tornado IDS Luftwaffe",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2515,7 +3287,11 @@
       "brand": "HASEGAWA",
       "description": "Douglas EKA-3B Skywarrior *VAQ-133 Wizards*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2528,7 +3304,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman EA-6B Prowler",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2541,7 +3321,11 @@
       "brand": "HASEGAWA",
       "description": "Bristol Beaufighter Mk.VI",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2554,7 +3338,11 @@
       "brand": "HASEGAWA",
       "description": "Bristol Beaufighter Mk.X",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2567,7 +3355,11 @@
       "brand": "HASEGAWA",
       "description": "Focke Wulf Ta 154 V-3",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2580,7 +3372,11 @@
       "brand": "HASEGAWA",
       "description": "De Havilland Mosquito B Mk. IV",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2593,7 +3389,11 @@
       "brand": "HASEGAWA",
       "description": "De Havilland Mosquito FB Mk. VI",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2606,7 +3406,11 @@
       "brand": "HASEGAWA",
       "description": "Kawasaki Ki-45 Kai Tei Toryu (Nick) *53rd Flight Regiment*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2619,7 +3423,11 @@
       "brand": "HASEGAWA",
       "description": "Yakovlev Yak-3",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2632,7 +3440,11 @@
       "brand": "HASEGAWA",
       "description": "Macchi M.C.202 Folgore",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2645,7 +3457,11 @@
       "brand": "HASEGAWA",
       "description": "Focke Wulf Fw 190 A-8",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2658,7 +3474,11 @@
       "brand": "HASEGAWA",
       "description": "Focke Wulf Fw 190 D-9",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2671,7 +3491,11 @@
       "brand": "HASEGAWA",
       "description": "Focke Wulf Fw 190 A-5",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2684,7 +3508,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Bf 109 E-3",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2697,7 +3525,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Bf 109 E-3 *Spanish AF*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2710,7 +3542,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Bf 109 E-4/7",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2723,7 +3559,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Bf 109 E-4/7 Trop",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2736,7 +3576,11 @@
       "brand": "HASEGAWA",
       "description": "North American P-51B Mustang",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2749,7 +3593,11 @@
       "brand": "HASEGAWA",
       "description": "North American P-51C Mustang *Yellow Tail*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2762,7 +3610,11 @@
       "brand": "HASEGAWA",
       "description": "Mitsubishi A6M2a Zero Type 11",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2775,7 +3627,11 @@
       "brand": "HASEGAWA",
       "description": "Mitsubishi A6M3 Zero Type 22",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2788,7 +3644,11 @@
       "brand": "HASEGAWA",
       "description": "Mitsubishi A6M3 Zero Type 32 *Houkoku*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2801,7 +3661,11 @@
       "brand": "HASEGAWA",
       "description": "Mitsubishi A6M5 Zero Type 52",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2814,7 +3678,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Bf 109 G-6 *Gustav 6*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2827,7 +3695,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Bf 109 G-14 *Gustav 14*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2840,7 +3712,11 @@
       "brand": "HASEGAWA",
       "description": "North American P-51D Mustang *Jumping Jaques*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2853,7 +3729,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman F4F-4 Wildcat",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2866,7 +3746,11 @@
       "brand": "HASEGAWA",
       "description": "Polikarpov I-16 Type 24 *USSR*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2879,7 +3763,11 @@
       "brand": "HASEGAWA",
       "description": "Douglas SDB-3 Dauntless",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2892,7 +3780,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman TBM-3 Avenger *USS Shamrock Bay*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2905,7 +3797,11 @@
       "brand": "HASEGAWA",
       "description": "Hawker Hurricane Mk.I *Battle of Britain*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2918,7 +3814,11 @@
       "brand": "HASEGAWA",
       "description": "Kyushu J7W1 Shinden *1946 Tokyo Defence*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -2931,7 +3831,11 @@
       "brand": "HASEGAWA",
       "description": "Supermarine Spitfire Mk. VIII",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -2944,7 +3848,11 @@
       "brand": "HASEGAWA",
       "description": "Supermarine Spitfire Mk. IX",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -2957,7 +3865,11 @@
       "brand": "HASEGAWA",
       "description": "Brewster F2A-2 Buffalo *US Navy*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -2970,7 +3882,11 @@
       "brand": "HASEGAWA",
       "description": "Brewster B-239 Buffalo *Finnish AF*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -2983,7 +3899,11 @@
       "brand": "HASEGAWA",
       "description": "Brewster F2A-2 Buffalo *US Navy* w/ Carrier Deck",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -2996,7 +3916,11 @@
       "brand": "HASEGAWA",
       "description": "Dewoitine D520 *French AF*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3009,7 +3933,11 @@
       "brand": "HASEGAWA",
       "description": "Dewoitine D520 *Vichy AF*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3022,7 +3950,11 @@
       "brand": "HASEGAWA",
       "description": "North American P-51B Mustang *Malcolm Hood*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3035,7 +3967,11 @@
       "brand": "HASEGAWA",
       "description": "Messerschmitt Bf 109 G-6 *Graff*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3048,7 +3984,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman Martlet Mk.II *Royal Navy*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3061,7 +4001,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman Martlet Mk.V",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3074,7 +4018,11 @@
       "brand": "HASEGAWA",
       "description": "Morane Saulnier D-3800 *Swiss AF*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3087,7 +4035,11 @@
       "brand": "HASEGAWA",
       "description": "Nakajima Ki-43-II Hayabusa *Oscar*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3100,7 +4052,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman TBM-1C Avenger *Atlantic*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3113,7 +4069,11 @@
       "brand": "HASEGAWA",
       "description": "Grumman Tarpoon Mk II  Avenger *Royal Navy*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3126,7 +4086,11 @@
       "brand": "HASEGAWA",
       "description": "Vought F4U-1A Corsair *Kepford*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3139,7 +4103,11 @@
       "brand": "HASEGAWA",
       "description": "SAAB J-35J Draken *Swedish Air Force*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3152,7 +4120,11 @@
       "brand": "HASEGAWA",
       "description": "Douglas A-1H Skyraider *USAF*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3165,7 +4137,11 @@
       "brand": "HASEGAWA",
       "description": "Douglas A-1H Skyraider *US Navy* w/General Pourpouse Bombs",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3178,7 +4154,11 @@
       "brand": "HASEGAWA",
       "description": "Vought XF5U-1 Flying Pancake",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3191,7 +4171,11 @@
       "brand": "HASEGAWA",
       "description": "Sukhoi Su-27 Flanker *Russian Knights*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3204,7 +4188,11 @@
       "brand": "HASEGAWA",
       "description": "Kawanishi E7K1 Type 94 Model 1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3217,7 +4205,11 @@
       "brand": "HASEGAWA",
       "description": "Supermarine Spitfire Mk. VIII *R.A.A.F.*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3230,7 +4222,11 @@
       "brand": "HASEGAWA",
       "description": "Hawker Hurricane Mk.IIc *Night Fighter*  ",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3243,7 +4239,11 @@
       "brand": "HASEGAWA",
       "description": "Mil Mi-24 Hind-E",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3256,7 +4256,11 @@
       "brand": "HASEGAWA",
       "description": "North-American B-25J Mitchell",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3269,7 +4273,11 @@
       "brand": "HASEGAWA",
       "description": "Avro Lancaster *Post war*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3282,7 +4290,11 @@
       "brand": "HASEGAWA",
       "description": "Heinkel He111O *Old Camouflage*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3295,7 +4307,11 @@
       "brand": "HASEGAWA",
       "description": "Junkers Ju88A-11 (A4 Trop) *North Africa*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3308,7 +4324,11 @@
       "brand": "HASEGAWA",
       "description": "Boeing 767-300 ANA",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Comercial"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3321,7 +4341,11 @@
       "brand": "HELLER",
       "description": "Fiesler Storch Fi-156 / Morane Saulnier MS-500",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3334,7 +4358,11 @@
       "brand": "HELLER",
       "description": "Messerschmitt Bf 109B-1/C-1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3347,7 +4375,11 @@
       "brand": "HELLER",
       "description": "Messerschmitt Me 163 Komet",
       "type": "Base Kit",
-      "tags": ["Military", "Rocket engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Rocket engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3360,7 +4392,11 @@
       "brand": "HELLER",
       "description": "Saab Tunnan J/S 29",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3373,7 +4409,11 @@
       "brand": "HELLER",
       "description": "Saab J-21 A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3386,7 +4426,11 @@
       "brand": "HELLER",
       "description": "Saab 32 Lansen",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3399,7 +4443,11 @@
       "brand": "HELLER",
       "description": "Eurocopter AS332 Super Puma Exocet",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3412,7 +4460,11 @@
       "brand": "HELLER",
       "description": "Eurocopter EC 145 *Sécurité Civile*",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3425,7 +4477,11 @@
       "brand": "HELLER",
       "description": "Eurocopter EC 145 *Gendarmerie*",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3438,7 +4494,11 @@
       "brand": "HELLER",
       "description": "Fouga Magister CM 170",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3451,7 +4511,11 @@
       "brand": "HELLER",
       "description": "North American F-86F Sabre",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3464,7 +4528,11 @@
       "brand": "HELLER",
       "description": "Republic F-84 G Thunderjet",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3477,7 +4545,11 @@
       "brand": "HELLER",
       "description": "Dassault Mirage 2000 C",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3490,7 +4562,11 @@
       "brand": "HELLER",
       "description": "Block 174 A3",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3503,7 +4579,11 @@
       "brand": "HELLER",
       "description": "Mirage F1 C",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3516,7 +4596,11 @@
       "brand": "HELLER",
       "description": "Dassault Mirage III E/R/5/BA",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3529,7 +4613,11 @@
       "brand": "HELLER",
       "description": "Dassault Mirage 5 BA",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3542,7 +4630,11 @@
       "brand": "HELLER",
       "description": "Dassault Mirage IV A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3555,7 +4647,11 @@
       "brand": "HELLER",
       "description": "Dassault Rafale A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3568,7 +4664,11 @@
       "brand": "HELLER",
       "description": "Saab Viggen",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3581,7 +4681,11 @@
       "brand": "HELLER",
       "description": "Vought A7-E/H Corsair II",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3594,7 +4698,11 @@
       "brand": "HELLER",
       "description": "Dassault-Breguet Super Entendard",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3607,7 +4715,11 @@
       "brand": "HELLER",
       "description": "Sukhoi Su-27 UB Flanker",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3620,7 +4732,11 @@
       "brand": "HELLER",
       "description": "Nord 2501 Noratlas",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3633,7 +4749,11 @@
       "brand": "HELLER",
       "description": "Junkers Ju 52 / 3M",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3646,7 +4766,11 @@
       "brand": "HELLER",
       "description": "Transall C-160G *Gabriel*",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3659,7 +4783,11 @@
       "brand": "HELLER",
       "description": "Lockheed L 749 Constellation KLM",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Comercial"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3672,7 +4800,11 @@
       "brand": "HELLER",
       "description": "Mig 29 UB (Hi-Tech Concept)",
       "type": "Multimedia Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3685,7 +4817,11 @@
       "brand": "HOBBYCRAFT",
       "description": "Mig-17 F",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3698,7 +4834,11 @@
       "brand": "HOBBYCRAFT",
       "description": "Grumman S2F-1 Tracker",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3711,7 +4851,11 @@
       "brand": "HOBBYCRAFT",
       "description": "Beech C-45 G/H Expeditor",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3724,7 +4868,11 @@
       "brand": "HOBBYCRAFT",
       "description": "F-89D Scorpion",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3737,7 +4885,11 @@
       "brand": "ICM",
       "description": "Ilya Muromets Russian Heavy Bomber",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3750,7 +4902,11 @@
       "brand": "ICM",
       "description": "Avia B-71 Luftwaffe",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3763,7 +4919,11 @@
       "brand": "ITALERI",
       "description": "Supermarine Spitfire Mk.Vb",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3776,7 +4936,11 @@
       "brand": "ITALERI",
       "description": "Agusta A129 Mangusta",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3789,7 +4953,11 @@
       "brand": "ITALERI",
       "description": "Piasecki H-2C Shawnne *Flying Banana*",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3802,7 +4970,11 @@
       "brand": "ITALERI",
       "description": "Dassault Mirage 2000 C",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3815,7 +4987,11 @@
       "brand": "ITALERI",
       "description": "Mc Donnell Douglas F/A-18 C/D Wild Weasel",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3828,7 +5004,11 @@
       "brand": "ITALERI",
       "description": "Junkers Ju-88 A4",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3841,7 +5021,11 @@
       "brand": "ITALERI",
       "description": "Northrop B-2 Stealth Bomber",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3854,7 +5038,11 @@
       "brand": "ITALERI",
       "description": "Dassault Mirage 2000 D",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3867,7 +5055,11 @@
       "brand": "ITALERI",
       "description": "Kamov KA-50 *Hokum*",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3880,7 +5072,11 @@
       "brand": "ITALERI",
       "description": "Messerschmitt Bf 110 G4/R3 Nachtjager",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3893,7 +5089,11 @@
       "brand": "ITALERI",
       "description": "Grumman A6-E Tram Intruder",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3906,7 +5106,11 @@
       "brand": "ITALERI",
       "description": "Sukhoi Su-22 M-4 *Fitter-K*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3919,7 +5123,11 @@
       "brand": "ITALERI",
       "description": "Sukhoi Su-22 UM-3K Strike Fighter",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -3932,7 +5140,11 @@
       "brand": "ITALERI",
       "description": "Messerschmitt Bf 110 C3/C4 Zerstorer",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -3945,7 +5157,11 @@
       "brand": "ITALERI",
       "description": "Messerschmitt Bf-109 F2/4",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -3958,7 +5174,11 @@
       "brand": "ITALERI",
       "description": "Messerschmitt Bf-109 G-6",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -3971,7 +5191,11 @@
       "brand": "ITALERI",
       "description": "Henschell Hs-129 B3 Tank Buster",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -3984,7 +5208,11 @@
       "brand": "ITALERI",
       "description": "Petljakov PE-2",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -3997,7 +5225,11 @@
       "brand": "ITALERI",
       "description": "Sukhoi Su-34/32 *Strike Flanker*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4010,7 +5242,11 @@
       "brand": "ITALERI",
       "description": "Vought F-4 U4-B Corsair",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4023,7 +5259,11 @@
       "brand": "ITALERI",
       "description": "Boeing CH-47C/D Chinook (HC.1) Heavy Transport Helicopter",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4036,7 +5276,11 @@
       "brand": "ITALERI",
       "description": "Sepecat Jaguar Gr1",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4049,7 +5293,11 @@
       "brand": "ITALERI",
       "description": "Mistel 1 / Ju-88 A4 with Bf 109 F",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4062,7 +5310,11 @@
       "brand": "ITALERI",
       "description": "Messerschmitt Me-410 Hornisse",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4075,7 +5327,11 @@
       "brand": "ITALERI",
       "description": "Messerschmitt Me-210 A1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4088,7 +5344,11 @@
       "brand": "ITALERI",
       "description": "Junkers Ju-87 B2/R2 Dive Bomber",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4101,7 +5361,11 @@
       "brand": "ITALERI",
       "description": "Westland HU-5 Wessex",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4114,7 +5378,11 @@
       "brand": "ITALERI",
       "description": "Sukhoi Su-25 *Frogfoot*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4127,7 +5395,11 @@
       "brand": "ITALERI",
       "description": "Antonov AN-2 *Colt*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4140,7 +5412,11 @@
       "brand": "ITALERI",
       "description": "Dassault Rafale B",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4153,7 +5429,11 @@
       "brand": "ITALERI",
       "description": "Bell AH-1/AB-47",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4166,7 +5446,11 @@
       "brand": "ITALERI",
       "description": "CANT Z.501 *Gabbiano* Bomber Seaplane",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4179,7 +5463,11 @@
       "brand": "ITALERI",
       "description": "North American B-25 B/C Mitchell",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4192,7 +5480,11 @@
       "brand": "ITALERI",
       "description": "Douglas C-47 Skytrain ",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4205,7 +5497,11 @@
       "brand": "ITALERI",
       "description": "Lavochkin LA-5 FN",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4218,7 +5514,11 @@
       "brand": "ITALERI",
       "description": "Convair General Dynamics B-58 Hustler",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4231,7 +5531,11 @@
       "brand": "ITALERI",
       "description": "IAI Kfir C2-C7",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4244,7 +5548,11 @@
       "brand": "ITALERI",
       "description": "Messerschmitt Me 323 D-1 Gigant",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4257,7 +5565,11 @@
       "brand": "ITALERI",
       "description": "Junkers Ju-86 E1/E-2",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4270,7 +5582,11 @@
       "brand": "ITALERI",
       "description": "Sikorsky H-19B Chickasaw",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4283,7 +5599,11 @@
       "brand": "ITALERI",
       "description": "Lockheed F-22 Raptor",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4296,7 +5616,11 @@
       "brand": "ITALERI",
       "description": "Boeing X-32 JSF",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4309,7 +5633,11 @@
       "brand": "ITALERI",
       "description": "Savoia Marchetti SM 79 Sparviero",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4322,7 +5650,11 @@
       "brand": "ITALERI",
       "description": "North American F-5B Freedom Fighter",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4335,7 +5667,11 @@
       "brand": "ITALERI",
       "description": "Northrop YB-49 Flying Wing",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4348,7 +5684,11 @@
       "brand": "ITALERI",
       "description": "EF-111A Raven",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4361,7 +5701,11 @@
       "brand": "ITALERI",
       "description": "Bell UH-1D Iroquois",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4374,7 +5718,11 @@
       "brand": "ITALERI",
       "description": "Bell CH-146 Griffon / Bell 412",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Utility"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4387,7 +5735,11 @@
       "brand": "ITALERI",
       "description": "Fiat CR.42 Falco",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4400,7 +5752,11 @@
       "brand": "ITALERI",
       "description": "Savoia-Marchetti SM.82 Marsupiale",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4413,7 +5769,11 @@
       "brand": "ITALERI",
       "description": "Douglas A-26 A/B Invader",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4426,7 +5786,11 @@
       "brand": "ITALERI",
       "description": "Bae Harrier Gr.3",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4439,7 +5803,11 @@
       "brand": "ITALERI",
       "description": "Dornier Do 217 M-1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4452,7 +5820,11 @@
       "brand": "ITALERI",
       "description": "LOCKHEED MARTIN HC-130J U.S. Coast Guard",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4465,7 +5837,11 @@
       "brand": "ITALERI",
       "description": "Short Stirling Mk. IV Glider Tug - Paratroops Transport",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4478,7 +5854,11 @@
       "brand": "ITALERI",
       "description": "Short Sunderland  Mk.III",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4491,7 +5871,11 @@
       "brand": "ITALERI",
       "description": "Canadair CL-415",
       "type": "Base Kit",
-      "tags": ["Civil", "Turboprop", "Fire-fighter"],
+      "tags": [
+        "Civil",
+        "Turboprop",
+        "Fire-fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4504,7 +5888,11 @@
       "brand": "ITALERI",
       "description": "Vickers Wellington Mk IC",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4517,7 +5905,11 @@
       "brand": "ITALERI",
       "description": "English Electric B-57B Canberra",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4530,7 +5922,11 @@
       "brand": "ITALERI",
       "description": "Bell-Boeing V-22 Osprey ",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4543,7 +5939,11 @@
       "brand": "ITALERI",
       "description": "Iljushin Il-28 Beagle",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4556,7 +5956,11 @@
       "brand": "ITALERI",
       "description": "Lockheed SR-71 Blackbird w/ Drone",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4569,7 +5973,11 @@
       "brand": "KANGNAM",
       "description": "Mig-31 Foxhound",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4582,7 +5990,11 @@
       "brand": "KANGNAM",
       "description": "Yakovlev Yak-38 Forger A/B",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4595,7 +6007,11 @@
       "brand": "KP",
       "description": "Aero L-39 C Albatros",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4608,7 +6024,11 @@
       "brand": "KP",
       "description": "Pipper L-4 H",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4621,7 +6041,11 @@
       "brand": "KP",
       "description": "Convair XFY-1 Pogo",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Experimental"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Experimental"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4634,7 +6058,11 @@
       "brand": "M. PRO-MODELLER",
       "description": "Messerschmitt Bf 109 G-10",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4647,7 +6075,11 @@
       "brand": "M. PRO-MODELLER",
       "description": "Supermarine Spitfire Mk.V",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4660,7 +6092,11 @@
       "brand": "M. PRO-MODELLER",
       "description": "Messerschmitt Me 262 A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4673,7 +6109,11 @@
       "brand": "M. PRO-MODELLER",
       "description": "Focke Wulf 190 A-8",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4686,7 +6126,11 @@
       "brand": "MACH 2",
       "description": "SNECMA Coleoptere",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Experimental"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Experimental"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4699,7 +6143,11 @@
       "brand": "MATCHBOX",
       "description": "North American T-2 C/E Buckeye",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4712,7 +6160,11 @@
       "brand": "MINICRAFT",
       "description": "Douglas DC-8-71 - Delta",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4725,7 +6177,11 @@
       "brand": "MINICRAFT",
       "description": "Boeing B727-200 - American Airlines",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4738,7 +6194,11 @@
       "brand": "MINICRAFT",
       "description": "McDonnell Douglas MD-80  TWA",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4751,7 +6211,11 @@
       "brand": "MODELCRAFT",
       "description": "Bristol Blenhein Mk.I/Mk.IF",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4764,7 +6228,11 @@
       "brand": "MONOGRAM",
       "description": "Fairchild A-10A Thunderbolt II",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4777,7 +6245,11 @@
       "brand": "MONOGRAM",
       "description": "Lockheed SR-71 Blackbird",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4790,7 +6262,11 @@
       "brand": "MPM",
       "description": "Hansa Brandenburg W29",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4803,7 +6279,11 @@
       "brand": "MPM",
       "description": "Fairchild M62 / PT-19A",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4816,7 +6296,11 @@
       "brand": "MPM",
       "description": "Grumman F3F-1",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4829,7 +6313,11 @@
       "brand": "PREMIERE",
       "description": "Embraer EMB 312 Tucano",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Aerobatics"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Aerobatics"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4842,7 +6330,11 @@
       "brand": "REVELL",
       "description": "Messerschmitt Me 262 B-1a/U1",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4855,7 +6347,11 @@
       "brand": "REVELL",
       "description": "Hawker Siddeley Sea Vixen FAW Mk.2",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4868,7 +6364,11 @@
       "brand": "REVELL",
       "description": "Messerschmitt Me 262 A-1a/U3 Recce",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4881,7 +6381,11 @@
       "brand": "REVELL",
       "description": "Handley Page Heyford Mk I/II/III ",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4894,7 +6398,11 @@
       "brand": "REVELL",
       "description": "Handley Page Victor K Mk 2",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4907,7 +6415,11 @@
       "brand": "REVELL",
       "description": "Horten IX / Go 229",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4920,7 +6432,11 @@
       "brand": "REVELL",
       "description": "Messerschmitt P 1099 B/I",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -4933,7 +6449,11 @@
       "brand": "REVELL",
       "description": "Vought F-8E Crusader",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -4946,7 +6466,11 @@
       "brand": "REVELL",
       "description": "Eurofighter Typhoon - Twin Seater",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -4959,7 +6483,11 @@
       "brand": "REVELL",
       "description": "North American T-2 C/E Buckeye",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -4972,7 +6500,11 @@
       "brand": "REVELL",
       "description": "Saab J-29F Tunnan",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -4985,7 +6517,11 @@
       "brand": "REVELL",
       "description": "McDonnell Douglas F-4 F Phantom II *Luftwaffe*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -4998,7 +6534,11 @@
       "brand": "REVELL",
       "description": "Heinkel He 177 A-5 w/Fritz X",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5011,7 +6551,11 @@
       "brand": "REVELL",
       "description": "Focke-Wulf Fw 200 C-5/C-8 Condor",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5024,7 +6568,11 @@
       "brand": "REVELL",
       "description": "Panavia Tornado ECR *Tigermeet*",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5037,7 +6585,11 @@
       "brand": "REVELL",
       "description": "Convair B-36 H/ RB-36F Peacemaker",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5050,7 +6602,11 @@
       "brand": "REVELL",
       "description": "Arado Ar (E) 555",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5063,7 +6619,11 @@
       "brand": "REVELL",
       "description": "Avro Shackleton MR.3",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5076,7 +6636,11 @@
       "brand": "REVELL",
       "description": "Arado Ar 240 C-0 Nightfighter",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5089,7 +6653,11 @@
       "brand": "REVELL",
       "description": "Westland Seaking Mk.41 w/skua missiles",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5102,7 +6670,11 @@
       "brand": "REVELL",
       "description": "Westland Wessex HAS3",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5115,7 +6687,11 @@
       "brand": "REVELL",
       "description": "Airbus A400M *Atlas*",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5128,7 +6704,11 @@
       "brand": "REVELL",
       "description": "Lockheed Martin F-104G Starfighter",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5141,7 +6721,11 @@
       "brand": "REVELL",
       "description": "Fiat G.91 R3",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5154,7 +6738,11 @@
       "brand": "REVELL",
       "description": "Airbus A319 - British Airways - GermanWings",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5167,7 +6755,11 @@
       "brand": "REVELL",
       "description": "Airbus A380 - House Colors",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5180,7 +6772,11 @@
       "brand": "REVELL",
       "description": "Boeing B737-800 KLM",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5193,7 +6789,11 @@
       "brand": "REVELL",
       "description": "Bae Concorde",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5206,7 +6806,11 @@
       "brand": "REVELL",
       "description": "Boeing B747-400 British Airways",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5219,7 +6823,11 @@
       "brand": "REVELL",
       "description": "Airbus A320 - Condor",
       "type": "Base Kit",
-      "tags": ["Civil", "Jet", "Comercial"],
+      "tags": [
+        "Civil",
+        "Jet",
+        "Comercial"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5232,7 +6840,11 @@
       "brand": "RODEN",
       "description": "Gotha G.II / G.III bomber ",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5245,7 +6857,11 @@
       "brand": "RODEN",
       "description": "Fokker E.V / D.III",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5258,7 +6874,11 @@
       "brand": "RODEN",
       "description": "Heinkel 111 B *Pedro*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5271,7 +6891,11 @@
       "brand": "RODEN",
       "description": "Felixstowe F.2A Flying boat",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5284,7 +6908,11 @@
       "brand": "RODEN",
       "description": "Royal_Aircraft_Factory S.E.5a with Hispano Suiza engine",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5297,7 +6925,11 @@
       "brand": "RODEN",
       "description": "Albatros D.VA",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5310,7 +6942,11 @@
       "brand": "RODEN",
       "description": "Sopwith Camel F.1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5323,7 +6959,11 @@
       "brand": "RODEN",
       "description": "Albatros D.III Oeffag s.253",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5336,7 +6976,11 @@
       "brand": "RODEN",
       "description": "Fokker Dr.I Triplane",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5349,7 +6993,11 @@
       "brand": "RODEN",
       "description": "Pfalz D.IIIa",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5362,7 +7010,11 @@
       "brand": "RODEN",
       "description": "Junkers D.I short fuselage version",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5375,7 +7027,11 @@
       "brand": "SMER",
       "description": "Morane Saulnier MS 230",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5388,7 +7044,11 @@
       "brand": "SMER",
       "description": "Hawker Tempest Mk.V (Hi-Tech / Super Decal)",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5401,7 +7061,11 @@
       "brand": "SMER",
       "description": "Arado Ar 96 B-1",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5414,7 +7078,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Lockheed TR-1A",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5427,7 +7095,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Yakovlev Yak-23 Flora *Red & White Stars*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5440,7 +7112,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Avia C-2",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5453,7 +7129,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Caproni Ca.311 *Foreign Service* ",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5466,7 +7146,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Letov S.328 *Slovak National Uprising*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5479,7 +7163,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Potez 25 TOE",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5492,7 +7180,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Fairey Barracuda Mk.III *ASW Mk.XI Radar*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5505,7 +7197,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "D.H.100 Vampire Mk.1",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5518,7 +7214,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "D.H.100 Vampire Mk.3",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5531,7 +7231,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "D.H.100 Vampire FB.Mk.9",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5544,7 +7248,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Arado Ar-96A",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5557,7 +7265,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "Breguet Br.695AB.2",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5570,7 +7282,11 @@
       "brand": "SPECIAL HOBBY",
       "description": "SIAI-Marchetti SF-260 EA/D/W with Late Bulged Canopy Type*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5583,7 +7299,11 @@
       "brand": "SWORD",
       "description": "Curtiss SO3C Seamew",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5596,7 +7316,11 @@
       "brand": "SWORD",
       "description": "Beech D-17S Staggerwing",
       "type": "Base Kit",
-      "tags": ["Civil", "Piston Engine", "Utility"],
+      "tags": [
+        "Civil",
+        "Piston Engine",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5609,7 +7333,11 @@
       "brand": "SWORD",
       "description": "JRF Goose U.S.C.G.",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5622,7 +7350,11 @@
       "brand": "SWORD",
       "description": "McDonnell F3B/F3H-2N Demon",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5635,7 +7367,11 @@
       "brand": "SWORD",
       "description": "Grumman TBM-3W Guppy",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5648,7 +7384,11 @@
       "brand": "SWORD",
       "description": "North-American T-39A Saberliner 2 Markings for USAF",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Utility"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5661,7 +7401,11 @@
       "brand": "TAMIYA",
       "description": "Bell X-1 *Mach Buster*",
       "type": "Base Kit",
-      "tags": ["Military", "Rocket engine", "Experimental"],
+      "tags": [
+        "Military",
+        "Rocket engine",
+        "Experimental"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5674,7 +7418,11 @@
       "brand": "TAMIYA",
       "description": "Douglas F4D-1 Skyray",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5687,7 +7435,11 @@
       "brand": "TAMIYA",
       "description": "Republic F-84 G Thunderjet",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5700,7 +7452,11 @@
       "brand": "TAMIYA",
       "description": "De Havilland Mosquito FB Mk. VI / N",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5713,7 +7469,11 @@
       "brand": "TAMIYA",
       "description": "Supermarine Spitfire Mk.I",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5726,7 +7486,11 @@
       "brand": "TAMIYA",
       "description": "Vought F4U-1D Corsair",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5739,7 +7503,11 @@
       "brand": "TAMIYA",
       "description": "Vought F4U-1 Corsair *Bird Cage*",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5752,7 +7520,11 @@
       "brand": "TAMIYA",
       "description": "Mitsubishi A6M3/3A *Zero* Model 22 Zeke",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5765,7 +7537,11 @@
       "brand": "TAMIYA",
       "description": "De Havilland Mosquito NF Mk. XIII / XVII",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5778,7 +7554,11 @@
       "brand": "TAMIYA",
       "description": "Boeing B-52 D Stratofortress",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5791,7 +7571,11 @@
       "brand": "TRUMPETER",
       "description": "Tupolev Tu-95MS Bear-H",
       "type": "Base Kit",
-      "tags": ["Military", "Turboprop", "Fighter"],
+      "tags": [
+        "Military",
+        "Turboprop",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5804,7 +7588,11 @@
       "brand": "TRUMPETER",
       "description": "British Wyvern S.4",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5817,7 +7605,11 @@
       "brand": "TRUMPETER",
       "description": "RA-5C Vigilante",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5830,7 +7622,11 @@
       "brand": "TRUMPETER",
       "description": "Vickers Wellington Mk.IC",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5843,7 +7639,11 @@
       "brand": "TRUMPETER",
       "description": "Tu-160 Black Jack",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5856,7 +7656,11 @@
       "brand": "TRUMPETER",
       "description": "North-American F-100D Super Sabre",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5869,7 +7673,11 @@
       "brand": "TRUMPETER",
       "description": "Chengdu J-10B Chinese Fighter",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5882,7 +7690,11 @@
       "brand": "TRUMPETER",
       "description": "Tu-160 Black Jack",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5895,7 +7707,11 @@
       "brand": "ZVEZDA",
       "description": "Kamov Ka-27",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5908,7 +7724,11 @@
       "brand": "ZVEZDA",
       "description": "Sukhoi Su-39",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
@@ -5921,7 +7741,11 @@
       "brand": "ZVEZDA",
       "description": "Yakovlev Yak-130",
       "type": "Base Kit",
-      "tags": ["Military", "Jet", "Fighter"],
+      "tags": [
+        "Military",
+        "Jet",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 15,
@@ -5934,7 +7758,11 @@
       "brand": "ZVEZDA",
       "description": "Petlyakov Pe-8 ON Stalin*s Plane",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 10,
@@ -5947,7 +7775,11 @@
       "brand": "ZVEZDA",
       "description": "Ilyushin Il-2M3 ",
       "type": "Base Kit",
-      "tags": ["Military", "Piston Engine", "Fighter"],
+      "tags": [
+        "Military",
+        "Piston Engine",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 11,
@@ -5960,7 +7792,11 @@
       "brand": "ZVEZDA",
       "description": "Fokker F.VII",
       "type": "Base Kit",
-      "tags": ["Civil", "Piston Engine", "Utility"],
+      "tags": [
+        "Civil",
+        "Piston Engine",
+        "Utility"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 12,
@@ -5973,7 +7809,11 @@
       "brand": "ZVEZDA",
       "description": "Mil Mi-28N",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 13,
@@ -5986,12 +7826,54 @@
       "brand": "ZVEZDA",
       "description": "Mil Mi-28A",
       "type": "Base Kit",
-      "tags": ["Military", "Helicopter", "Fighter"],
+      "tags": [
+        "Military",
+        "Helicopter",
+        "Fighter"
+      ],
       "addDescription": "More information coming soon",
       "stock": 1,
       "price": 14,
       "score": 3,
       "image": "ZV7246.jpg"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "1",
+      "type": "Multimedia Kit",
+      "scale": "1:72",
+      "description": "Aero L-39 C Albatros"
+    },
+    {
+      "id": "2",
+      "type": " BaseKit",
+      "scale": "1:72",
+      "description": "Aero L-39 C Albatros"
+    },
+    {
+      "id": "3",
+      "type": "Aftermarket Decals",
+      "scale": "1:72",
+      "description": "Aero L-39 C Albatros"
+    },
+    {
+      "id": "4",
+      "type": "Multimedia Kit",
+      "scale": "1:48",
+      "description": "Aero L-39 C Albatros"
+    },
+    {
+      "id": "5",
+      "type": " BaseKit",
+      "scale": "1:48",
+      "description": "Aero L-39 C Albatros"
+    },
+    {
+      "id": "6",
+      "type": "Aftermarket Decals",
+      "scale": "1:48",
+      "description": "Aero L-39 C Albatros"
     }
   ]
 }

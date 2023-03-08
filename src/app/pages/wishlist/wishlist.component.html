@@ -1,62 +1,118 @@
-<p>wishlist works!</p>
+<h3>Your wishlist!</h3>
+<h4>
+  Let us know what are you looking for or what do you wish from the modeling
+  market... and we will let you know whenever your wish come true.
+</h4>
 
-<form 
-    *ngIf="wishlistForm"
-    [formGroup]="wishlistForm">
-    <div *ngFor="let type_sel of type">
+<!-- FORMULARIO -->
+
+<form
+  class="wishlistForm"
+  *ngIf="wishlistForm"
+  [formGroup]="wishlistForm"
+  name="wishlistForm"
+  (submit)="insertId()"
+>
+<div class="description_title">
+  <p>Product Type</p>
+  <p
+  *ngIf="!wishlistForm.get('type')?.dirty"  
+  [ngStyle]="{
+      color: 'red'
+    }"
+  >
+    Required!
+  </p>
+</div>
+  <div class="type_cont">
+    <div *ngFor="let type_sel of typeArray">
       <label>
         {{ type_sel }}
       </label>
       <input
         type="radio"
-        name="radio_type"
+        name="type"
         class="form_radio"
         [id]="type_sel"
         [value]="type_sel"
         formControlName="type"
-
       />
     </div>
+  </div>
+  <div class="description_title">
+    <p>Scale</p>
+    <p
+  *ngIf="!wishlistForm.get('scale')?.dirty"  
+  [ngStyle]="{
+      color: 'red'
+    }"
+  >
+    Required!
+  </p>
+  </div>
   
-    <div *ngFor="let scale_sel of scale">
+  <div class="scale_cont">
+    <div *ngFor="let scale_sel of scaleArray">
       <label>
         {{ scale_sel }}
       </label>
       <input
-        name="radio_scale"
         type="radio"
+        name="scale"
         class="form_radio"
         [id]="scale_sel"
         [value]="scale_sel"
         formControlName="scale"
+      />
+    </div>
+  </div>
+  <div class="description_title">
+    <p>Product Description</p>
+    <p
+    *ngIf="!wishlistForm.get('description')?.dirty"  
+    [ngStyle]="{color: 'red'}"
+    >
+      Required!
+    </p>
+  </div>
 
-      />
-    </div>
-    <div>
-      <input
-        name="input_description"
-        class="form_input"
-        placeholder="Description"
-        formControlName="description"
+  <div class="description_cont">
+    <textarea
+      name="text_description"
+      rows="2"
+      cols="80"
+      placeholder="Description"
+      formControlName="description"
+    >
+    </textarea>
+  </div>
+  <div>
 
-      />
+  </div>
+
+  <button
+    class="form_button"
+    type="submit"
+    [disabled]="!(wishlistForm.get('type')?.dirty && wishlistForm.get('scale')?.dirty && wishlistForm.get('description')?.dirty)"
+    role="button"
+  >Send to Wishlist
+  </button>
+</form>
+
+<!-- LISTA -->
+
+<div *ngIf="wishlistArray">
+  <div class="wishlist">
+    <h2>ALL USERS WISH LIST:</h2>
+    <div *ngFor="let eachWish of wishlistArray" class="wishlist_item">
+      <p class="productId">{{ eachWish.id }}</p>
+      <p class="productScale">{{ eachWish.scale }}</p>
+      <p class="productDescr">{{ eachWish.description }}</p>
+      <p class="productType">{{ eachWish.type }}</p>
+      <div class="list_button_cont">
+        <button class="list_button" [ngStyle]= "{'color':'green'}" (click)="editWishlistItem(eachWish.id, eachWish)">Edit</button>
+       <button class="list_button" [ngStyle]= "{'color':'red'}" (click)="deleteWishlistItem(eachWish.id)">Remove</button>
+      </div>
     </div>
-    <div *ngFor="let brand_sel of brand">
-      <label>
-        {{ brand_sel }}
-      </label>
-      <input
-        name="checkbox_brand"
-        type="checkbox"
-        class="form_checkbox"
-        [id]="brand_sel"
-        [value]="brand_sel"
-        formControlName="brand"
-      />
-    </div>
-  
-    <button
-      class="form_button"
-      type="submit">Send to Wishlist</button>
-  </form>
-  
+  </div>
+</div>

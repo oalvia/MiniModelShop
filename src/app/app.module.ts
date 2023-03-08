@@ -8,12 +8,14 @@ import { ProductDetailComponent } from './pages/product-detail/product-detail.co
 import { ProductReviewComponent } from './pages/product-review/product-review.component';
 import {HttpClientModule} from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { WishlistComponent } from './pages/wishlist/wishlist.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProductDetailComponent,
-    ProductReviewComponent
+    ProductReviewComponent,
+    WishlistComponent
   ],
   imports: [
     BrowserModule,

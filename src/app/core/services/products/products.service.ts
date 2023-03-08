@@ -8,19 +8,14 @@ import { Product } from './product.models';
   providedIn: 'root',
 })
 export class ProductsService {
-
-  public alterImage = "MiniModelShop/src/assets/image/comingSoon.png"
+  public alterImage = 'MiniModelShop/src/assets/image/comingSoon.png';
 
   constructor(private apiProductsService: ApiProductsService) {}
   public getProducts(): Observable<Product[]> {
     return this.apiProductsService.getApiProducts().pipe(
       map((products: ApiProduct[]) => {
         return products.map((product: ApiProduct) => {
-          
-
-
-
-          
+          delete product.addDescription;
           return product;
         });
       })
